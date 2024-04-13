@@ -1,4 +1,4 @@
-## NLP_Query-Analysis
+## Natural Language Processing Algorithm using Python
 
 ### Project Description
 This university project aimed to understand and explore Natural Language Processing (NLP) techniques, specifically focusing on keyword extraction algorithms such as TF-IDF, to enhance customer service operations in the digital era. Automating responses and improving the capabilities of chatbots can achieve the goal of streamlining customer service processes, reducing response times, and elevating customer satisfaction. The project employs Python programming and various libraries, including `sklearn`, to implement the TF-IDF model and generate word clouds that analyze AI-generated customer queries.
